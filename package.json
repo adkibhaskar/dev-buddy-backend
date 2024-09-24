@@ -1,0 +1,19 @@
+{
+  "name": "devbuddy_backend",
+  "version": "1.0.0",
+  "description": "An app for devlopers where they can connect with another developers and can share content with each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "javascript"
+  ],
+  "author": "Bhaskar Adki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
